@@ -38,9 +38,9 @@ Figure-5 Game Scene Structure
 AI of this game is designed to catch the ball. AI will trace the position of ball all the time. It is implemented by using a simple if conditional function. The function Works like below.
 
 Algorithm of Enemy(Top) Paddle AI:
->IF Enemy Paddle in the left of Ball
->>AI moves Enemy Paddle to right  
->Else IF Enemy Paddle in the right of Ball
->>AI moves Enemy Paddle to left  
->Else
->>AI does nothing
+IF Enemy Paddle in the left of Ball
+AI moves Enemy Paddle to right  
+Else IF Enemy Paddle in the right of Ball
+AI moves Enemy Paddle to left  
+Else
+AI does nothing
