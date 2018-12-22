@@ -1,7 +1,7 @@
 # Pong-Unity3D
 This program is trying to replicate a classical video game, which is named “Pong”, in windows platform. Below is the introduction of “Pong”.
 ## 1.Demonstration
-Youtube Link:https://youtu.be/k5mzbi-lHaw
+Check the capture of the game. Youtube Link:https://youtu.be/k5mzbi-lHaw
 
 ![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/1.png)
 
@@ -38,9 +38,9 @@ Figure-5 Game Scene Structure
 AI of this game is designed to catch the ball. AI will trace the position of ball all the time. It is implemented by using a simple if conditional function. The function Works like below.
 
 Algorithm of Enemy(Top) Paddle AI:
-IF Enemy Paddle in the left of Ball
-	AI moves Enemy Paddle to right  
-Else IF Enemy Paddle in the right of Ball
-	AI moves Enemy Paddle to left  
-Else
-	AI does nothing
+>IF Enemy Paddle in the left of Ball
+>>AI moves Enemy Paddle to right  
+>Else IF Enemy Paddle in the right of Ball
+>>AI moves Enemy Paddle to left  
+>Else
+>>AI does nothing
