@@ -6,13 +6,17 @@ Youtube Link:https://youtu.be/k5mzbi-lHaw
 ![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/1.png)
 
 Figure-1
-![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/2.png)
+
+
+![2](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/2.png)
+
 
 Figure-2
 
-![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/3.png)
+![3](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/3.png)
 
 Figure-3
+
 ## 2.Game Flow
 The work flow diagram is shown as below. Please check.
 
