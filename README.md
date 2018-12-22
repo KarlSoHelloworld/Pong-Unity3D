@@ -22,13 +22,13 @@ The work flow diagram is shown as below. Please check.
 This project consisted of two scenes, Welcome Scene and Game Scene. Each scene contains several objects and functions. 
 
 ### 3.1	Welcome Scene
-Welcome Scene is a menu page, the main function of this scene is to call Game Scene. When the Game Scene is shown, Welcome Scene will be hidden. The structure of Welcome Scene is shown in Figure-3.
+Welcome Scene is a menu page, the main function of this scene is to call Game Scene. When the Game Scene is shown, Welcome Scene will be hidden. The structure of Welcome Scene is shown in Figure-4.
 ![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/4.png)
 Figure-4 Welcome Scene Structure
 
 ### 3.2	Game Scene
 Game Scene is the most important component of this game. Users can play the game through this scene.
-Game Scene consist of game components. And each component has several functions which will interact with each other. The details of Game Scene structure are shown in Figure-4.
+Game Scene consist of game components. And each component has several functions which will interact with each other. The details of Game Scene structure are shown in Figure-5.
 ![1](https://github.com/KarlSoHelloworld/Pong-Unity3D/blob/master/Readme%20Pictures/5.png)
 Figure-5 Game Scene Structure
 
